@@ -43,7 +43,6 @@ Reimplementation of a miniature NoSQL analytics stack (custom JSON/CSV/Excel par
 * **Poverty spikes (rate > 15%)** still correlate with lower organic/green purchases, yet several metro areas counteract this via high specialized-store density (per Food Environment Atlas indicators).
 * **Top category combinations** (by total dollars) remain concentrated in urban California, New York, and Alaska boroughs thanks to their large direct-sales and farmers-market footprints.
 
-> Rerun the notebook to regenerate outputs after refreshing source data; the README is aligned with the Excel-based pipeline.
 
 ---
 
